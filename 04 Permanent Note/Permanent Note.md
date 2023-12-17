@@ -1,0 +1,1 @@
+In this folder, the note is refined, categorized 
