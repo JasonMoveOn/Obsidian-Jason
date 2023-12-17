@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "c5d356b00eb42c2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ccba701d8913688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaf72c9ede1cd1de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian-Jason/01 Daily Note/2023-12-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bef7bdb0f5b81275",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1d5c5c1d2b9ebf39",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "31b74db94625aebb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c18e81a19d5d79c0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "56922dddbf8b9a76",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4262dbccbf0b0e8e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "716a7b730efd6b12",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Obsidian-Jason/01 Daily Note/2023-12-17.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f5def7137f4a92bd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Obsidian-Jason/01 Daily Note/2023-12-17.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "66979b06b20389b8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Obsidian-Jason/01 Daily Note/2023-12-17.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eaf72c9ede1cd1de",
+  "lastOpenFiles": [
+    "Obsidian-Jason/01 Daily Note/2023-12-16.md",
+    "Obsidian-Jason/01 Daily Note/2023-12-17.md"
+  ]
+}
