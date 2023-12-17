@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian-Jason/01 Daily Note/2023-12-17.md",
+                "file": "01 Daily Note/2023-12-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian-Jason/01 Daily Note/2023-12-17.md",
+            "file": "01 Daily Note/2023-12-17.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian-Jason/01 Daily Note/2023-12-17.md",
+            "file": "01 Daily Note/2023-12-17.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian-Jason/01 Daily Note/2023-12-17.md"
+            "file": "01 Daily Note/2023-12-17.md"
           }
         }
       }
@@ -131,9 +131,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaf72c9ede1cd1de",
+  "active": "1d5c5c1d2b9ebf39",
   "lastOpenFiles": [
-    "Obsidian-Jason/01 Daily Note/2023-12-16.md",
-    "Obsidian-Jason/01 Daily Note/2023-12-17.md"
+    "Obsidian-Jason/01 Daily Note/2023-12-17.md",
+    "01 Daily Note/2023-12-16.md",
+    "01 Daily Note/2023-12-17.md",
+    "Obsidian-Jason/01 Daily Note/2023-12-16.md"
   ]
 }
