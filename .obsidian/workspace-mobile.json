@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Daily Note/2023-12-17.md",
+                "file": "03 File Note/Obsidian on iPad github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b48cd0eeec9a3da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d94b77135a86235e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 File Note/Markdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01 Daily Note/2023-12-17.md",
+            "file": "03 File Note/Markdown.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01 Daily Note/2023-12-17.md",
+            "file": "03 File Note/Markdown.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "01 Daily Note/2023-12-17.md"
+            "file": "03 File Note/Markdown.md"
           }
         }
       }
@@ -133,9 +154,14 @@
   },
   "active": "1d5c5c1d2b9ebf39",
   "lastOpenFiles": [
+    "03 File Note/Markdown.md",
+    "03 File Note/Obsidian on iPad github.md",
+    "Untitled.md",
+    "01 Daily Note/2023-12-19.md",
+    "01 Daily Note/2023-12-17.md",
+    "01 Daily Note/2023-12-18.md",
     "Obsidian-Jason/01 Daily Note/2023-12-17.md",
     "01 Daily Note/2023-12-16.md",
-    "01 Daily Note/2023-12-17.md",
     "Obsidian-Jason/01 Daily Note/2023-12-16.md"
   ]
 }
