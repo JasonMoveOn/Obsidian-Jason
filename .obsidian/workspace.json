@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "529c39bdc5ff050e",
+        "id": "9db758cee45bcd18",
         "type": "tabs",
         "children": [
           {
-            "id": "5105710f0a3b231f",
+            "id": "91bb85186fe198ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Daily Note/2023-12-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10f913bfdb42c583",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 File Note/File Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b9eb444f1f487c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 File Note/File Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1be4fc8b2378676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Daily Note/2023-12-18.md",
+                "file": "03 File Note/Markdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Daily Note/2023-12-18.md",
+                "file": "03 File Note/Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Daily Note/2023-12-18.md",
+                "file": "03 File Note/Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Daily Note/2023-12-18.md"
+                "file": "03 File Note/Markdown.md"
               }
             }
           }
@@ -183,12 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1be4fc8b2378676",
+  "active": "91bb85186fe198ac",
   "lastOpenFiles": [
+    "02 Flash Note/Obsidian Study.md",
+    "01 Daily Note/2023-12-19.md",
+    "03 File Note/Markdown.md",
+    "Untitled.md",
     "01 Daily Note/2023-12-17.md",
-    "01 Daily Note/2023-12-18.md",
-    "03 File Note/Obsidian on iPad github.md",
     "03 File Note/File Note.md",
+    "03 File Note/Obsidian on iPad github.md",
+    "01 Daily Note/2023-12-18.md",
     "04 Permanent Note/Permanent Note.md",
     "出院.md",
     "01 Daily Note/2023-12-16.md",
