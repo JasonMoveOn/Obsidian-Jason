@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Daily Note/2023-12-22.md",
+                "file": "04 Permanent Note/Permanent Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c42d638ecc12e717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Permanent Note/How to improve written Engilsh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ccbc2c09a28a1e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Permanent Note/Writing Practice - 1/Plan 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Daily Note/2023-12-22.md",
+                "file": "04 Permanent Note/Writing Practice - 1/Plan 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Daily Note/2023-12-22.md",
+                "file": "04 Permanent Note/Writing Practice - 1/Plan 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Daily Note/2023-12-22.md"
+                "file": "04 Permanent Note/Writing Practice - 1/Plan 1.md"
               }
             }
           }
@@ -172,10 +196,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1959c802442255ef",
+  "active": "9ccbc2c09a28a1e0",
   "lastOpenFiles": [
-    "01 Daily Note/2023-12-21.md",
+    "04 Permanent Note/How to improve written Engilsh.md",
+    "04 Permanent Note/Writing Practice - 1/Plan 1.md",
+    "04 Permanent Note/Writing Practice - 1",
+    "04 Permanent Note/Permanent Note.md",
     "01 Daily Note/2023-12-22.md",
+    "01 Daily Note/2023-12-21.md",
     "01 Daily Note/2023-12-16.md",
     "03 File Note/Python 3.0/Python3 简介.md",
     "03 File Note/Github.md",
@@ -193,7 +221,6 @@
     "03 File Note/File Note.md",
     "03 File Note/Obsidian on iPad github.md",
     "01 Daily Note/2023-12-18.md",
-    "04 Permanent Note/Permanent Note.md",
     "出院.md"
   ]
 }
