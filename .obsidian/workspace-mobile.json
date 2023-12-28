@@ -69,14 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W1D4.md",
+                "file": "04 Permanent Note/Writing Practice - 1/Plan 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "195546d6aa29eb67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Permanent Note/Writing Practice - 1/W1D3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 Permanent Note/Writing Practice - 1/W1D4.md",
+            "file": "04 Permanent Note/Writing Practice - 1/W1D3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 Permanent Note/Writing Practice - 1/W1D4.md",
+            "file": "04 Permanent Note/Writing Practice - 1/W1D3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "04 Permanent Note/Writing Practice - 1/W1D4.md"
+            "file": "04 Permanent Note/Writing Practice - 1/W1D3.md"
           }
         }
       }
@@ -188,11 +200,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d79f4739f1a31abb",
+  "active": "1d5c5c1d2b9ebf39",
   "lastOpenFiles": [
-    "04 Permanent Note/How to improve written Engilsh.md",
-    "04 Permanent Note/Writing Practice - 1/W1D4.md",
+    "04 Permanent Note/Writing Practice - 1/W1D6.md",
     "04 Permanent Note/Writing Practice - 1/Plan 1.md",
+    "04 Permanent Note/Writing Practice - 1/W1D4.md",
+    "04 Permanent Note/How to improve written Engilsh.md",
+    "04 Permanent Note/Writing Practice - 1/W1D5.md",
     "02 Flash Note/Netflix.md",
     "04 Permanent Note/Writing Practice - 1/W1D3.md",
     "04 Permanent Note/Writing Practice - 1/W1D2.md",
@@ -227,7 +241,6 @@
     "01 Daily Note/2023-12-17.md",
     "01 Daily Note/2023-12-18.md",
     "Obsidian-Jason/01 Daily Note/2023-12-17.md",
-    "01 Daily Note/2023-12-16.md",
-    "Obsidian-Jason/01 Daily Note/2023-12-16.md"
+    "01 Daily Note/2023-12-16.md"
   ]
 }
