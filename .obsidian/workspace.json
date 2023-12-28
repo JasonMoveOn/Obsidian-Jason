@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W1D5.md",
+                "file": "04 Permanent Note/Writing Practice - 1/W1D6.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W1D5.md",
+                "file": "04 Permanent Note/Writing Practice - 1/W1D6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W1D5.md",
+                "file": "04 Permanent Note/Writing Practice - 1/W1D6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W1D5.md"
+                "file": "04 Permanent Note/Writing Practice - 1/W1D6.md"
               }
             }
           }
@@ -246,10 +246,12 @@
   },
   "active": "b498ea02b0e2195b",
   "lastOpenFiles": [
+    "Attachment/DALL·E 2023-12-28 05.58.10 - A picturesque winter scene in Shirakawa-go, Japan, with traditional thatched-roof houses covered in heavy snow. The landscape is serene, with a gentle.png",
+    "04 Permanent Note/Writing Practice - 1/W1D5.md",
+    "04 Permanent Note/Writing Practice - 1/W1D6.md",
     "04 Permanent Note/Writing Practice - 1/W1D3.md",
     "04 Permanent Note/Writing Practice - 1/W1D2.md",
     "04 Permanent Note/Writing Practice - 1/W1D1.md",
-    "04 Permanent Note/Writing Practice - 1/W1D5.md",
     "04 Permanent Note/Writing Practice - 1/Plan 1.md",
     "04 Permanent Note/Writing Practice - 1/W1D4.md",
     "Attachment/Pasted image 20231223191128.png",
@@ -283,8 +285,6 @@
     "Excalidraw",
     "02 Flash Note/Obsidian Study.md",
     "01 Daily Note/2023-12-17.md",
-    "03 File Note/File Note.md",
-    "03 File Note/Obsidian on iPad github.md",
-    "01 Daily Note/2023-12-18.md"
+    "03 File Note/File Note.md"
   ]
 }
