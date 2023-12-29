@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-kanban:convert-to-kanban": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "K"
+    }
+  ]
+}
