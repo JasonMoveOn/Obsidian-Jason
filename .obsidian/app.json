@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachment",
-  "livePreview": false
+  "livePreview": false,
+  "defaultViewMode": "preview"
 }

@@ -6,16 +6,12 @@ kanban-plugin: basic
 
 ## 
 
-- [ ] [W1D1] at a elevator company [not *in*]
-- [ ] [W1D1] The usual foods for breakfast are. [not *normal*]
-- [ ] [W1D1] make the bed [not *make up*]
 - [ ] [W1D1] drop my son off at kindergarten
 - [ ] [W1D1]Savoring a cup of coffee
 - [ ] [W1D1] head home to cook dinner
 - [ ] [W1D1] wind down
 - [ ] [W1D2] nostalgia, nostalgic
 - [ ] [W1D2] Back then, dining out was a rarity due to economic constraints, so each rice noodle meal felt like a celebration.
-- [ ] [W1D2] slow-cooked bone soup
 - [ ] [W1D2] This preference wasn't just because wheat was less cultivated compared to the north;
 - [ ] [W1D3] firecrackers explod
 - [ ] [W1D3] Our parents, colleagues at the same plant, fostered a bond that extended to us kids.
@@ -29,12 +25,16 @@ kanban-plugin: basic
 - [ ] [W1D5] Each season brings its unique gifts, and in embracing them, we find the rhythm of life itself.
 - [ ] [W1D6] Okinawa, aquarium, Takayama, Shirakawa-go
 - [ ] [W1D7] Anyway, I will give it a try.
-- [ ] [W1D7] n India and Africa, there are many people in poverty.
+- [ ] [W1D7] India and Africa, there are many people in poverty.
 - [ ] [W1D7]Interestingly, some of these findings challenge our common sense.
 
 
 ## 
 
+- [ ] [W1D1] make the bed [not *make up*]
+- [ ] [W1D1] The usual foods for breakfast are. [not *normal*]
+- [ ] [W1D1] at a elevator company [not *in*]
+- [ ] [W1D2] slow-cooked bone soup
 
 
 ## 
