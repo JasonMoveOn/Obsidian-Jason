@@ -15,7 +15,7 @@
               "state": {
                 "file": "03 File Note/Markdown.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "03 File Note/Git.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "04 Permanent Note/Permanent Note.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -51,60 +51,34 @@
               "state": {
                 "file": "04 Permanent Note/How to improve written Engilsh.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "9ccbc2c09a28a1e0",
+            "id": "dc669ad543fff7d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/Plan 1.md",
+                "file": "04 Permanent Note/Writing Practice - 1/W1D1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "b498ea02b0e2195b",
+            "id": "7d6b253532b13125",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "02 Flash Note/Netflix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88ca36a264c7bcd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/Plan 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5765c2357c9af2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W1D6.md",
-                "mode": "source",
-                "source": false
+                "file": "04 Permanent Note/Writing Practice - 1/Key learning.md"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -170,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W1D6.md",
+                "file": "04 Permanent Note/Writing Practice - 1/Key learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W1D6.md",
+                "file": "04 Permanent Note/Writing Practice - 1/Key learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,16 +184,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W1D6.md"
+                "file": "04 Permanent Note/Writing Practice - 1/Key learning.md"
               }
+            }
+          },
+          {
+            "id": "dec8b656ffc15b26",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,28 +213,33 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5765c2357c9af2d",
+  "active": "7d6b253532b13125",
   "lastOpenFiles": [
     "04 Permanent Note/Writing Practice - 1/W1D7.md",
+    "04 Permanent Note/Writing Practice - 1/Key learning.md",
+    "04 Permanent Note/Writing Practice - 1/W1D6.md",
+    "04 Permanent Note/Writing Practice - 1/W1D5.md",
+    "04 Permanent Note/Writing Practice - 1/W1D4.md",
+    "04 Permanent Note/Writing Practice - 1/W1D3.md",
+    "04 Permanent Note/Writing Practice - 1/Plan 1.md",
+    "04 Permanent Note/Writing Practice - 1/W1D2.md",
+    "04 Permanent Note/Writing Practice - 1/W1D1.md",
+    "02 Flash Note/Kanban.md",
+    "02 Flash Note/Plugins.md",
+    "Excalidraw/Drawing 2023-12-29 05.57.22.excalidraw.md",
+    "02 Flash Note/GatesNotes.md",
     "Attachment/Pasted image 20231229052618.png",
     "Attachment/Pasted image 20231223191128.png",
     "Attachment/DALL·E 2023-12-28 05.58.10 - A picturesque winter scene in Shirakawa-go, Japan, with traditional thatched-roof houses covered in heavy snow. The landscape is serene, with a gentle.png",
-    "04 Permanent Note/Writing Practice - 1/W1D6.md",
-    "04 Permanent Note/Writing Practice - 1/Plan 1.md",
-    "02 Flash Note/Kanban.md",
     "02 Flash Note/Netflix.md",
     "02 Flash Note/Untitled 1.md",
     "Pasted image 20231223122840.png",
     "Pasted image 20231223123019.png",
     "Pasted image 20231223123212.png",
-    "04 Permanent Note/Writing Practice - 1/W1D5.md",
-    "04 Permanent Note/Writing Practice - 1/W1D3.md",
-    "04 Permanent Note/Writing Practice - 1/W1D2.md",
-    "04 Permanent Note/Writing Practice - 1/W1D1.md",
-    "04 Permanent Note/Writing Practice - 1/W1D4.md",
     "04 Permanent Note/How to improve written Engilsh.md",
     "Attachment",
     "01 Daily Note/2023-12-22.md",
@@ -268,11 +256,8 @@
     "03 File Note/Python 3.0",
     "03 File Note/Git.md",
     "03 File Note/Markdown.md",
-    "02 Flash Note/GatesNotes.md",
     "Excalidraw/Drawing 2023-12-21 07.23.47.excalidraw.md",
     "Excalidraw/Drawing 2023-12-21 07.21.21.excalidraw.md",
-    "README.md",
-    "01 Daily Note/2023-12-19.md",
     "Excalidraw"
   ]
 }

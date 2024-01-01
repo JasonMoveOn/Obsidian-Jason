@@ -1,5 +1,8 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-full-calendar",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "table-editor-obsidian",
+  "obsidian-tasks-plugin",
+  "obsidian-mind-map"
 ]
