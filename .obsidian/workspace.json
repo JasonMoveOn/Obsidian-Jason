@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W2/W2D2.md",
+                "file": "04 Permanent Note/Writing Practice - 1/W2/W2D1.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "286c7f693c50900c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Permanent Note/Writing Practice - 1/W2/W2D3.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W2/W2D2.md",
+                "file": "04 Permanent Note/Writing Practice - 1/W2/W2D3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W2/W2D2.md",
+                "file": "04 Permanent Note/Writing Practice - 1/W2/W2D3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Permanent Note/Writing Practice - 1/W2/W2D2.md"
+                "file": "04 Permanent Note/Writing Practice - 1/W2/W2D3.md"
               }
             }
           },
@@ -243,19 +255,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3375525c32baa3ca",
+  "active": "286c7f693c50900c",
   "lastOpenFiles": [
+    "02 Flash Note/Obsidian Study.md",
+    "04 Permanent Note/Writing Practice - 1/W2/W2D3.md",
+    "04 Permanent Note/Writing Practice - 1/W2/W2D1.md",
+    "04 Permanent Note/Writing Practice - 1/Plan 1.md",
+    "04 Permanent Note/Writing Practice - 1/Key learning.md",
+    "04 Permanent Note/Writing Practice - 1/W2/W2D2.md",
     "02 Flash Note/发烧什么时候看医生.md",
     "Attachment/DALL·E 2024-01-02 07.33.08 - A bright and inviting scene inside a library in Shanghai. The library is spacious with high ceilings and large windows, allowing abundant natural ligh.png",
-    "04 Permanent Note/Writing Practice - 1/W2/W2D1.md",
-    "04 Permanent Note/Writing Practice - 1/W2/W2D2.md",
-    "04 Permanent Note/Writing Practice - 1/Plan 1.md",
     "03 File Note/Obsidian on iPad github.md",
     "03 File Note/Git.md",
-    "02 Flash Note/Obsidian Study.md",
     "Attachment/Pasted image 20231231190534.png",
     "04 Permanent Note/Writing Practice - 1/W1/W1D2.md",
-    "04 Permanent Note/Writing Practice - 1/Key learning.md",
     "04 Permanent Note/Writing Practice - 1/W1/W1D1.md",
     "04 Permanent Note/Writing Practice - 1/W2",
     "04 Permanent Note/Writing Practice - 1/W1",
@@ -284,7 +297,6 @@
     "04 Permanent Note/Writing Practice - 1",
     "04 Permanent Note/Permanent Note.md",
     "01 Daily Note/2023-12-21.md",
-    "01 Daily Note/2023-12-16.md",
     "03 File Note/Python 3.0",
     "Excalidraw"
   ]
